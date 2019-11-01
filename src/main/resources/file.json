@@ -1,0 +1,12 @@
+{
+  "Fruits": [
+    {
+      "name": "avocado",
+      "organic": true
+    },
+    {
+      "name": "mango",
+      "organic": true
+    }
+  ]
+}
